@@ -1,5 +1,9 @@
 import pygame, sys
 
+from varname import nameof
+
+import random
+
 from listfile import *
 
 from persoimage import *
